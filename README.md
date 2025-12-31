@@ -1,1 +1,1 @@
-# SCT_ML_Task3
+Image prediction 
